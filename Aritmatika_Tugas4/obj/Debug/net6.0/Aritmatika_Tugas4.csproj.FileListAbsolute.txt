@@ -1,0 +1,15 @@
+C:\Users\dinda\RiderProjects\Aritmatika\Aritmatika_Tugas4\bin\Debug\net6.0\Aritmatika_Tugas4.exe
+C:\Users\dinda\RiderProjects\Aritmatika\Aritmatika_Tugas4\bin\Debug\net6.0\Aritmatika_Tugas4.deps.json
+C:\Users\dinda\RiderProjects\Aritmatika\Aritmatika_Tugas4\bin\Debug\net6.0\Aritmatika_Tugas4.runtimeconfig.json
+C:\Users\dinda\RiderProjects\Aritmatika\Aritmatika_Tugas4\bin\Debug\net6.0\Aritmatika_Tugas4.dll
+C:\Users\dinda\RiderProjects\Aritmatika\Aritmatika_Tugas4\bin\Debug\net6.0\Aritmatika_Tugas4.pdb
+C:\Users\dinda\RiderProjects\Aritmatika\Aritmatika_Tugas4\obj\Debug\net6.0\Aritmatika_Tugas4.csproj.AssemblyReference.cache
+C:\Users\dinda\RiderProjects\Aritmatika\Aritmatika_Tugas4\obj\Debug\net6.0\Aritmatika_Tugas4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinda\RiderProjects\Aritmatika\Aritmatika_Tugas4\obj\Debug\net6.0\Aritmatika_Tugas4.AssemblyInfoInputs.cache
+C:\Users\dinda\RiderProjects\Aritmatika\Aritmatika_Tugas4\obj\Debug\net6.0\Aritmatika_Tugas4.AssemblyInfo.cs
+C:\Users\dinda\RiderProjects\Aritmatika\Aritmatika_Tugas4\obj\Debug\net6.0\Aritmatika_Tugas4.csproj.CoreCompileInputs.cache
+C:\Users\dinda\RiderProjects\Aritmatika\Aritmatika_Tugas4\obj\Debug\net6.0\Aritmatika_Tugas4.dll
+C:\Users\dinda\RiderProjects\Aritmatika\Aritmatika_Tugas4\obj\Debug\net6.0\refint\Aritmatika_Tugas4.dll
+C:\Users\dinda\RiderProjects\Aritmatika\Aritmatika_Tugas4\obj\Debug\net6.0\Aritmatika_Tugas4.pdb
+C:\Users\dinda\RiderProjects\Aritmatika\Aritmatika_Tugas4\obj\Debug\net6.0\Aritmatika_Tugas4.genruntimeconfig.cache
+C:\Users\dinda\RiderProjects\Aritmatika\Aritmatika_Tugas4\obj\Debug\net6.0\ref\Aritmatika_Tugas4.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aritmatika_Tugas4/1.0.0": {
+        "runtime": {
+          "Aritmatika_Tugas4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aritmatika_Tugas4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
